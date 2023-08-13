@@ -1,16 +1,16 @@
 item {
     id: 1
-    name: 'Raspberry_Pi_3'
+    name: 'sku_medium_brush'
 }
 item {
     id: 2
-    name: 'Arduino_Nano'
+    name: 'sku_small_brush'
 }
 item {
     id: 3
-    name: 'ESP8266'
+    name: 'sku_scrapper'
 }
 item {
     id: 4
-    name: 'Heltec_ESP32_Lora'
+    name: 'sku_electrical_tape'
 }
