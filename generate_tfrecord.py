@@ -34,6 +34,26 @@ def class_text_to_int(row_label):
         return 3
     elif row_label == 'sku_electrical_tape':
         return 4
+    elif row_label == 'sku_glue':
+        return 5
+    elif row_label == 'sku_13a_adapter':
+        return 6
+    elif row_label == 'sku_paint_roller':
+        return 7
+    elif row_label == 'sku_sss304_hand_spray_set':
+        return 8
+    elif row_label == 'sku_gardening_tool':
+        return 9
+    elif row_label == 'sku_shower_head_s4':
+        return 10
+    elif row_label == 'sku_white_bidet_holder':
+        return 11
+    elif row_label == 'sku_ss304_bidet_head':
+        return 12
+    elif row_label == 'sku_ss304_bidet_hose':
+        return 13
+    elif row_label == 'sku_water_tap':
+        return 14
     else:
         return None
 

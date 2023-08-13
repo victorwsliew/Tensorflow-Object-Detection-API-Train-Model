@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>PHOTO-2023-08-01-20-56-13 2.jpg</filename>
+	<path>/Users/victorwsliew/Projects/ai/Tensorflow-Object-Detection-API-Train-Model/images/train/PHOTO-2023-08-01-20-56-13 2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sku_paint_roller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>112</ymin>
+			<xmax>861</xmax>
+			<ymax>655</ymax>
+		</bndbox>
+	</object>
+</annotation>

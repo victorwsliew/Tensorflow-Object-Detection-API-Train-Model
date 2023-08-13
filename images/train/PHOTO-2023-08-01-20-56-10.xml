@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>PHOTO-2023-08-01-20-56-10.jpg</filename>
+	<path>/Users/victorwsliew/Projects/ai/Tensorflow-Object-Detection-API-Train-Model/images/train/PHOTO-2023-08-01-20-56-10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sku_white_bidet_holder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>387</ymin>
+			<xmax>664</xmax>
+			<ymax>986</ymax>
+		</bndbox>
+	</object>
+</annotation>

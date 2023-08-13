@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>PHOTO-2023-08-01-20-56-14.jpg</filename>
+	<path>/Users/victorwsliew/Projects/ai/Tensorflow-Object-Detection-API-Train-Model/images/train/PHOTO-2023-08-01-20-56-14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sku_13a_adapter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>181</ymin>
+			<xmax>644</xmax>
+			<ymax>936</ymax>
+		</bndbox>
+	</object>
+</annotation>
