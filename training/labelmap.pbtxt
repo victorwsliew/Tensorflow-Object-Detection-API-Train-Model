@@ -6,11 +6,3 @@ item {
     id: 2
     name: 'brass_water_tap'
 }
-item {
-    id: 3
-    name: 'brass_gate_valve'
-}
-item {
-    id: 4
-    name: 'ring_clamp'
-}

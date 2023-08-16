@@ -30,10 +30,6 @@ def class_text_to_int(row_label):
         return 1
     elif row_label == 'brass_water_tap':
         return 2
-    elif row_label == 'brass_gate_valve':
-        return 3
-    elif row_label == 'ring_clamp':
-        return 4
     else:
         return None
 
