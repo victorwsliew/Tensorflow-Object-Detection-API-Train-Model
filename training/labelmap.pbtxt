@@ -1,16 +1,16 @@
 item {
     id: 1
-    name: 'sku_medium_brush'
+    name: 'plastic_tee_connector'
 }
 item {
     id: 2
-    name: 'sku_small_brush'
+    name: 'brass_water_tap'
 }
 item {
     id: 3
-    name: 'sku_scrapper'
+    name: 'brass_gate_valve'
 }
 item {
     id: 4
-    name: 'sku_electrical_tape'
+    name: 'ring_clamp'
 }
